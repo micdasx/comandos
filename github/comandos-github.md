@@ -49,9 +49,8 @@
 1. **Ignorar Arquivos:**
     - Crie um arquivo chamado `.gitignore` para especificar os arquivos a serem ignorados.
 
-### Aplicabilidade e workflows
-
 ---
+
 ## Comandos interessantes
 
 ### Stash
